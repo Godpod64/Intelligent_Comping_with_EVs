@@ -1,3 +1,5 @@
+Note - this is very much a vibe coding experiment. Conclusion: vibe coding is excellent for rapid prototyping, but it's not programming. I'm not learning anything. It also has its limitations - here its really struggling to use beautiful soup effectively - instead it's creating lots of lines of messy code as work around. I will 100% still be vibe coding in the future to test ideas etc.
+
 # EV Competition Checker
 
 A Python tool to automatically scrape, analyze, and notify you about online prize competitions with the best expected value (EV) for entry, focusing on sites like RevComps. The script estimates the true value of prizes, calculates the probability and expected value for each competition, and sends a daily summary email with the best opportunities.
